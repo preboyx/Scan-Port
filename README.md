@@ -8,14 +8,17 @@ Instalacion
 ```
 • apt update && apt upgrade -y
 ```
+```
 • apt install git -y
 ```
+
 ```
 • apt install python -y
 ```
+
 ```
 • git clone https://github.com/preboyx/Scan-Port
-````
+```
 ```
 • cd Scan-Port
 ````
