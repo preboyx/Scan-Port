@@ -3,7 +3,7 @@
 
 **Scan-Port es un script en Python diseñado para escanear los puertos de un servidor o una dirección IP específica. Esta herramienta permite a los usuarios identificar qué puertos están abiertos en un sistema remoto**
 
-Instalacion
+**Instalacion**
 
 ```
 • apt update && apt upgrade -y
